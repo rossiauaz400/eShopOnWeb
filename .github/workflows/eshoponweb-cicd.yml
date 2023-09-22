@@ -4,6 +4,7 @@ name: eShopOnWeb Build and Test
 #on: [push, workflow_dispatch]
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
+# tetst
 env:
   RESOURCE-GROUP: rg-az400-eshoponweb-rossiauaz400-01
   LOCATION: westeurope
